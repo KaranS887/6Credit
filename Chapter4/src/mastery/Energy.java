@@ -19,3 +19,8 @@ public class Energy {
 	}
 
 }
+/* Screen Dump
+Enter mass in kg: 45
+The energy produced in joules is: 4.05E18
+The number of 100-watt light bulbs powered: 1.125E13
+*/

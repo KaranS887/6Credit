@@ -2,10 +2,10 @@
 
 Program:BingoRules.java       		Date: November 26, 2025
 
-Purpose: 
+Purpose: Create an application that displays the rules of bingo.
 
 
-Author:
+Author: Karanveer S.
 School: CHHS
 Course: Computer Science 10
  
@@ -18,7 +18,7 @@ public class BingoRules {
 
 	public static void main(String[] args) {
 		
-		//
+		//output given rules
         System.out.println("Bingo Rules\n");
         System.out.println("1. The caller randomly pulls a numbered bingo ball.\n");
         System.out.println("2. The number is placed on the bingo board and called out.\n");
